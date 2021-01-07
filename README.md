@@ -1,0 +1,1 @@
+base de datos de las ventas de unos productos por diferentes vendedores y clientes
